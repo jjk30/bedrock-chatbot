@@ -52,4 +52,4 @@ The guardrail version references a `guardrailIdentifier` that belongs to my AWS 
 
 ## Credits
 
-Built as part of the NextWork "Build an AI Chatbot with Amazon Bedrock" project.
+Built as part of the NextWork "Build an AI Chatbot with Amazon Bedrock" project. Read more about what I did here https://learn.nextwork.org/relieved_purple_beautiful_iara/docs/aws-genai-bedrock-chatbot 
