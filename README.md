@@ -1,4 +1,4 @@
-# Bedrock Chatbot
+# Building a chatbot using AWS Bedrock
 
 A command-line AI chatbot built with Amazon Bedrock and Python. It holds a multi-turn conversation with a foundation model, remembering earlier messages so follow-up questions keep their context.
 
